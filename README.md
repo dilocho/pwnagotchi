@@ -35,16 +35,18 @@ Other Resources:
   > Long story short, INVEST IN A GOOD QUALITY SD CARD AND DON'T CHEAP OUT**
      
   3. Following this comprehaesive [installation and configurations guide] (https://github.com/jayofelony/pwnagotchi/wiki) I was able to setup and start my very own pwnagotchi.
-  4. 
+
+# Operation: WIP
        
 # Skills Learned: 
 In this project I learned how to: 
 - Flash images using balenaEtcher
 - Set up a static IP address for my pwnagotchi
 - Used Powershell to SSH into my pwnagotchi to configure name and details of device
-- 
+  
       
 # Conclusion: 
+WIP
 
 # References: 
   
