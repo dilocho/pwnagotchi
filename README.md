@@ -32,7 +32,7 @@ Other Resources:
      - Formatting investigations
        
   > [!IMPORTANT]
-  > Long story short, INVEST IN A GOOD QUALITY SD CARD AND DON'T CHEAP OUT**
+  > Long story short, INVEST IN A GOOD QUALITY SD CARD AND DON'T CHEAP OUT
      
   3. Following this comprehaesive [installation and configurations guide] (https://github.com/jayofelony/pwnagotchi/wiki) I was able to setup and start my very own pwnagotchi.
 
